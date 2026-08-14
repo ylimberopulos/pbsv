@@ -1,0 +1,30 @@
+[
+  {
+    "clave": 10,
+    "municipio": "Atemajac de Brizuela",
+    "poblacion_2020": 7758,
+    "localidades_2020": 21,
+    "area_km2": 342.46
+  },
+  {
+    "clave": 32,
+    "municipio": "Chiquilistlán",
+    "poblacion_2020": 5983,
+    "localidades_2020": 23,
+    "area_km2": 315.52
+  },
+  {
+    "clave": 86,
+    "municipio": "Tapalpa",
+    "poblacion_2020": 21245,
+    "localidades_2020": 94,
+    "area_km2": 581.76
+  },
+  {
+    "clave": 113,
+    "municipio": "San Gabriel",
+    "poblacion_2020": 16548,
+    "localidades_2020": 63,
+    "area_km2": 723.47
+  }
+]

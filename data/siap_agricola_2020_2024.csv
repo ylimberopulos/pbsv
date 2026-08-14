@@ -1,0 +1,37 @@
+anio,clave,municipio,cultivo,superficie_sembrada_ha,superficie_cosechada_ha,produccion_t,rendimiento_t_ha,valor_produccion_miles_mxn
+2020,10,Atemajac de Brizuela,Total agrícola,2783.5,2783.5,,,112272.56
+2020,32,Chiquilistlán,Total agrícola,2514.0,2514.0,,,42248.09
+2020,86,Tapalpa,Total agrícola,6016.26,6016.26,,,668078.74
+2020,113,San Gabriel,Total agrícola,15857.97,13406.95,,,3190019.84
+2021,10,Atemajac de Brizuela,Total agrícola,2669.5,2669.5,,,153048.75
+2021,32,Chiquilistlán,Total agrícola,2406.0,2406.0,,,48678.79
+2021,86,Tapalpa,Total agrícola,5973.0,5973.0,,,631593.77
+2021,113,San Gabriel,Total agrícola,16845.97,13296.07,,,2912188.39
+2022,10,Atemajac de Brizuela,Total agrícola,3141.0,3141.0,,,197391.64
+2022,32,Chiquilistlán,Total agrícola,4321.0,4321.0,,,73248.67
+2022,86,Tapalpa,Total agrícola,7423.0,7423.0,,,1127515.19
+2022,113,San Gabriel,Total agrícola,16813.93,14676.93,,,3531423.11
+2023,10,Atemajac de Brizuela,Total agrícola,3211.0,3211.0,,,234798.31
+2023,32,Chiquilistlán,Total agrícola,4329.0,4329.0,,,62951.74
+2023,86,Tapalpa,Total agrícola,7642.0,7642.0,,,1394724.45
+2023,113,San Gabriel,Total agrícola,17459.46,14746.83,,,3910242.91
+2024,10,Atemajac de Brizuela,Total agrícola,2764.11,2764.11,,,259562.72
+2024,10,Atemajac de Brizuela,Fresa,155.0,155.0,4995.65,32.23,194477.76
+2024,10,Atemajac de Brizuela,Maíz grano,1435.11,1435.11,4951.9,3.45,33365.08
+2024,10,Atemajac de Brizuela,Papa,42.0,42.0,1348.62,32.11,14254.91
+2024,32,Chiquilistlán,Total agrícola,4247.0,4237.0,,,96874.78
+2024,32,Chiquilistlán,Aguacate,175.0,165.0,1518.0,9.2,41752.27
+2024,32,Chiquilistlán,Maíz grano,1770.0,1770.0,5405.85,3.05,36449.12
+2024,86,Tapalpa,Total agrícola,8331.0,7851.0,,,1625723.58
+2024,86,Tapalpa,Aguacate,1896.0,1416.0,15576.0,11.0,388532.57
+2024,86,Tapalpa,Arándano,45.0,45.0,607.5,13.5,28849.22
+2024,86,Tapalpa,Frambuesa,250.0,250.0,3625.0,14.5,129179.01
+2024,86,Tapalpa,Fresa,363.0,363.0,10825.13,29.82,397565.16
+2024,86,Tapalpa,Maíz grano,1795.0,1795.0,5702.25,3.18,38414.27
+2024,86,Tapalpa,Papa,1800.0,1800.0,61254.0,34.03,612153.49
+2024,113,San Gabriel,Total agrícola,17208.81,14231.18,,,3305729.98
+2024,113,San Gabriel,Agave,3171.0,732.0,65148.0,89.0,1525034.55
+2024,113,San Gabriel,Aguacate,3008.99,2470.36,28162.1,11.4,700311.73
+2024,113,San Gabriel,Arándano,10.0,10.0,138.0,13.8,5961.42
+2024,113,San Gabriel,Maíz grano,8295.0,8295.0,45212.5,5.45,305159.31
+2024,113,San Gabriel,Papa,12.0,12.0,441.24,36.77,4350.63
