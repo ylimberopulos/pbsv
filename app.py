@@ -30,6 +30,7 @@ embedded_loader = (
     f"S.geo={json.dumps(geo, ensure_ascii=False)};"
     f"S.inegi={json.dumps(inegi, ensure_ascii=False)};"
     f"S.agri=csv({json.dumps(siap, ensure_ascii=False)});"
+    "let i=S.inegi,a=S.agri;"
 )
 html = html.replace(original_loader, embedded_loader)
 
