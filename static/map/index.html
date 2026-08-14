@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="./resources/ol.css">
+        <link rel="stylesheet" href="resources/fontawesome-all.min.css">
+        <link rel="stylesheet" href="./resources/ol-layerswitcher.css">
+        <link rel="stylesheet" href="./resources/qgis2web.css">
+        <style>
+        html, body {
+            background-color: #ffffff;
+        }
+        .ol-control > * {
+            background-color: #f8f8f8!important;
+            color: #00a667!important;
+            border-radius: 0px;
+        }
+        .ol-attribution a, .gcd-gl-input::placeholder, .search-layer-input-search::placeholder {
+            color: #00a667!important;
+        }
+        .search-layer-input-search {
+            background-color: #f8f8f8!important;
+        }
+        .ol-control > *:focus, .ol-control >*:hover {
+            background-color: rgba(248, 248, 248, 0.7)!important;
+        } 
+        .ol-control {
+            background-color: rgba(255,255,255,.4) !important;
+            padding: 2px !important;
+        } 
+        </style>
+
+        <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+            <div id="popup" class="ol-popup">
+                <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+                <div id="popup-content"></div>
+            </div>
+        </div>
+        <script src="resources/qgis2web_expressions.js"></script>
+        <script src="./resources/functions.js"></script>
+        <script src="./resources/ol.js"></script>
+        <script src="./resources/ol-layerswitcher.js"></script>
+        <script src="layers/FormacionesForestalesINEGISerieVII_3.js"></script><script src="layers/CambioUsoDeSuelo_4.js"></script><script src="layers/SPParalaRestauracin_5.js"></script><script src="layers/SPParalaConservacindelaBiodiversidad_6.js"></script><script src="layers/CorrientesdeAgua_9.js"></script><script src="layers/Subcuencas_10.js"></script><script src="layers/Cuencas_11.js"></script><script src="layers/ANPSFederales_12.js"></script><script src="layers/LimitesMunicipales_13.js"></script><script src="layers/PaisajeBioculturalSierraVolcnica_14.js"></script><script src="layers/LocalidadesINEGI_15.js"></script>
+        <script src="styles/FormacionesForestalesINEGISerieVII_3_style.js"></script><script src="styles/CambioUsoDeSuelo_4_style.js"></script><script src="styles/SPParalaRestauracin_5_style.js"></script><script src="styles/SPParalaConservacindelaBiodiversidad_6_style.js"></script><script src="styles/CorrientesdeAgua_9_style.js"></script><script src="styles/Subcuencas_10_style.js"></script><script src="styles/Cuencas_11_style.js"></script><script src="styles/ANPSFederales_12_style.js"></script><script src="styles/LimitesMunicipales_13_style.js"></script><script src="styles/PaisajeBioculturalSierraVolcnica_14_style.js"></script><script src="styles/LocalidadesINEGI_15_style.js"></script>
+        <script src="./layers/layers.js" type="text/javascript"></script> 
+        <script src="./resources/Autolinker.min.js"></script>
+        <script src="./resources/qgis2web.js"></script>
+    </body>
+</html>
